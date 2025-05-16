@@ -31,8 +31,8 @@ Create a new DetectCollisions.cs script, then drag the scripts and add it to eac
 For all the animal prefabs and food in th inspector (below the layer ) drop down the override option and choose apply all.
 
 ## PROGRAM:
-## DEVELOPED BY: A.Abheek
-## REG NO: 212224100001
+## DEVELOPED BY: Pragadeesh S
+## REG NO: 212224220073
 ## SPAWN MANAGER:
 ```
 using System.Collections;
